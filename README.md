@@ -13,3 +13,5 @@
 
 
 ### LEVEL 3
+
+- 입국심사 [문제](https://programmers.co.kr/learn/courses/30/lessons/43238)  [python 풀이](https://github.com/leecrab/Algorithm-Code/blob/master/%ED%83%90%EC%83%89/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.md)
